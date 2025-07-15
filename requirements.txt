@@ -1,0 +1,9 @@
+scapy
+argparse
+# External tools to install manually (not via pip):
+# - aircrack-ng
+# - bully
+# - crunch
+# - cewl
+# - cupp
+# - hashcat
