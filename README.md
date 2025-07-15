@@ -35,6 +35,19 @@ Easily automate monitor mode, scanning, handshake capture, cracking, WPS (Pixie 
 - ✅ Optional menu-based UI (`-ui`)
 
 ---
+## 🚀 Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/sudo-cyfrin/wifi-reaper.git
+cd wifi-reaper
+pip install -r requirements.txt
+```
+
+> ✅ Note: Some features require aircrack-ng, bully, or hashcat to be installed on your system (use your package manager like apt, brew, etc.).
+> 
+
+---
 
 ### 🧑‍💻 Usage (CLI)
 
